@@ -1,7 +1,7 @@
-import { PocoyoVideoService } from '../pocoyoVideo/pocoyoVideo.service';
+//import { PocoyoVideoService } from '../pocoyoVideo/pocoyoVideo.service';
 
 /** @ngInject */
-export function CardVideos(): angular.IDirective {
+/*export function CardVideos(): angular.IDirective {
 
   return {
     restrict: 'E',
@@ -14,8 +14,9 @@ export function CardVideos(): angular.IDirective {
     bindToController: true
   };
 }
-
+*/
 /** @ngInject */
+/*
 export class CardVideosController {
   public videos: any;
   public qlimit: string = '10';
@@ -38,3 +39,4 @@ export class CardVideosController {
   }
 
 }
+*/

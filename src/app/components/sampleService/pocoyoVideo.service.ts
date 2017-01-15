@@ -1,7 +1,9 @@
+/*
 export class PocoyoVideoService {
   public apiHost: string = 'https://www.googleapis.com/youtube/v3/search';
-
+*/
   /** @ngInject */
+  /*
   constructor(private $log: angular.ILogService, private $http: angular.IHttpService) {
     // 
   }
@@ -25,3 +27,4 @@ export class PocoyoVideoService {
       });
   }
 }
+*/

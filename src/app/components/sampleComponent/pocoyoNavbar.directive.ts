@@ -1,4 +1,5 @@
 /** @ngInject */
+/*
 export function pocoyoNavbar(): angular.IDirective {
 
   return {
@@ -10,8 +11,9 @@ export function pocoyoNavbar(): angular.IDirective {
     bindToController: true
   };
 }
-
+*/
 /** @ngInject */
+/*
 export class PocoyoNavbarController {
   public urlgithub: string = 'https://github.com/diogenespolanco/pocoyoplayer';
   public urlblog: string = 'http://diogenespolanco.com';
@@ -21,3 +23,4 @@ export class PocoyoNavbarController {
     // 
   }
 }
+*/
